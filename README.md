@@ -23,4 +23,9 @@ My personal store for my own leetcode solutions for future reference.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
