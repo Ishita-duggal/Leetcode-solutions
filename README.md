@@ -15,4 +15,12 @@ My personal store for my own leetcode solutions for future reference.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0070-climbing-stairs) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
