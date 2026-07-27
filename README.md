@@ -8,14 +8,17 @@ My personal store for my own leetcode solutions for future reference.
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0509-fibonacci-number](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -34,4 +37,8 @@ My personal store for my own leetcode solutions for future reference.
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
