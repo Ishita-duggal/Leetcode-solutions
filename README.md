@@ -13,6 +13,7 @@ My personal store for my own leetcode solutions for future reference.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0435-non-overlapping-intervals](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -38,6 +39,7 @@ My personal store for my own leetcode solutions for future reference.
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0435-non-overlapping-intervals](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 ## Recursion
 |  |
 | ------- |
@@ -46,4 +48,12 @@ My personal store for my own leetcode solutions for future reference.
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0344-reverse-string) |
+## Greedy
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
+## Sorting
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
