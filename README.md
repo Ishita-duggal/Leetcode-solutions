@@ -38,6 +38,7 @@ My personal store for my own leetcode solutions for future reference.
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0435-non-overlapping-intervals](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
@@ -57,6 +58,11 @@ My personal store for my own leetcode solutions for future reference.
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0435-non-overlapping-intervals](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
