@@ -42,6 +42,7 @@ My personal store for my own leetcode solutions for future reference.
 | [0056-merge-intervals](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0435-non-overlapping-intervals](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 ## Recursion
@@ -52,6 +53,7 @@ My personal store for my own leetcode solutions for future reference.
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0344-reverse-string) |
 ## Greedy
 |  |
