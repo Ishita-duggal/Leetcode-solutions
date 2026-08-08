@@ -41,6 +41,7 @@ My personal store for my own leetcode solutions for future reference.
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0056-merge-intervals](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0189-rotate-array) |
@@ -86,6 +87,7 @@ My personal store for my own leetcode solutions for future reference.
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
