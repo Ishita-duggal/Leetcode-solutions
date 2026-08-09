@@ -51,6 +51,7 @@ My personal store for my own leetcode solutions for future reference.
 | [0435-non-overlapping-intervals](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0704-binary-search](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0704-binary-search) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Recursion
 |  |
 | ------- |
@@ -92,4 +93,12 @@ My personal store for my own leetcode solutions for future reference.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0704-binary-search) |
+## Sliding Window
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Prefix Sum
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
