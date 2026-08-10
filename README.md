@@ -50,6 +50,7 @@ My personal store for my own leetcode solutions for future reference.
 | [0283-move-zeroes](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
+| [0485-max-consecutive-ones](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0704-binary-search) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
