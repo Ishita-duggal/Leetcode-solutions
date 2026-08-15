@@ -52,6 +52,7 @@ My personal store for my own leetcode solutions for future reference.
 | [0435-non-overlapping-intervals](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0704-binary-search) |
+| [0904-fruit-into-baskets](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -89,6 +90,7 @@ My personal store for my own leetcode solutions for future reference.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0349-intersection-of-two-arrays](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0904-fruit-into-baskets](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 ## Binary Search
 |  |
 | ------- |
@@ -102,6 +104,7 @@ My personal store for my own leetcode solutions for future reference.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
