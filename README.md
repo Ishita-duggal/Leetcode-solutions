@@ -14,6 +14,7 @@ My personal store for my own leetcode solutions for future reference.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0435-non-overlapping-intervals](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -44,6 +45,7 @@ My personal store for my own leetcode solutions for future reference.
 | [0056-merge-intervals](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Ishita-duggal/Leetcode-solutions/tree/master/0189-rotate-array) |
